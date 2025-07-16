@@ -26,4 +26,7 @@ h1 {
     margin: 30px;
     padding: 40px;
     font-family:fantasy;
+    position: fixed;
+    top: 0;
+    right: 0;
 }

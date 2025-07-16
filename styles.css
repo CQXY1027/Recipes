@@ -12,12 +12,12 @@ h1 {
 }
 
 .button {
-    display: block;
+    display: inline;
     font-family:fantasy;
     font-weight:bold;
     background-color: rgb(250, 219, 224);
     border: 2px solid;
     border-radius: 10px;
     border-color:darksalmon;
-    height: 20%
+    height: 20%;
 }
