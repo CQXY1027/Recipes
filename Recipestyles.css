@@ -1,12 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&display=swap');
-
 body {
-    background-color: pink
-    font-family: 'Gaegu', cursive;
+    background-color: rgb(250, 219, 224);
+    font-family:fantasy;
+    img {
+        width: 500px;
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    
 }
 
 h1 {
     text-align: center;
     text-decoration: underline;
     
+}
+
+.button {
+    display: block;
+    background-color: rgb(211, 233, 244);
+    border: 2px solid;
+    border-radius: 50px;
+    border-color:cadetblue;
+    margin: 30px;
+    padding: 40px;
+    font-family:fantasy;
 }

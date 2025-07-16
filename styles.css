@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(211, 233, 244);
+    img {
+        width: 100px;
+        display:block;
+        margin: 0.5cm;
+    }
+    font-family:fantasy;
+}
+h1 {
+    text-align: center;
+}
+
+.button {
+    display: block;
+    font-family:fantasy;
+    font-weight:bold;
+    background-color: rgb(250, 219, 224);
+    border: 2px solid;
+    border-radius: 10px;
+    border-color:darksalmon;
+    height: 20%
+}
